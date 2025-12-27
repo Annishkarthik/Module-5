@@ -36,8 +36,7 @@ print(demo_instance.value)
 demo_instance.display()   
 
 ## 🧪 Output
-<img width="1100" height="394" alt="image" src="https://github.com/user-attachments/assets/b77f6ab1-5155-407b-aa2d-0d294b8cd676" />
-<img width="1231" height="289" alt="{1463F396-B828-43EF-868D-8DF6CD1A09AE}" src="https://github.com/user-attachments/assets/b63801ac-b44b-4741-8dc3-cf255bf4c523" />
+<img width="994" height="865" alt="image" src="https://github.com/user-attachments/assets/78d069cf-b544-4fee-8722-11985ad89165" />
 
 
 ## Result
