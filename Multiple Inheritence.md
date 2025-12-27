@@ -52,8 +52,8 @@ print("Summation:", sum_result)
 print("Subtraction:", sub_result)
 print("Division:", div_result)
 #output
-<img width="1332" height="308" alt="{4AB7823E-AD71-495A-B54F-46407EFAEA03}" src="https://github.com/user-attachments/assets/d3d80102-e0fd-4a2d-8c68-893cd94ecc9d" />
-<img width="1167" height="299" alt="{AE3E1747-5F51-4BDD-98EB-3C30A0915F2D}" src="https://github.com/user-attachments/assets/a64458eb-f2cf-4227-94d2-ee7a56e2df88" />
+<img width="1113" height="591" alt="image" src="https://github.com/user-attachments/assets/db60ba11-b324-432e-94b4-f21468a6a57e" />
+<img width="1167" height="299" alt="image" src="https://github.com/user-attachments/assets/9e90fbc3-3243-42e2-a558-452a1d645db1" />
 
 #result
 hence,the code is written and executed successfully
